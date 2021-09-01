@@ -1,0 +1,29 @@
+.titulo-contenedor{
+    text-align: center;
+    background-color:rgb(255, 255, 255);
+    
+}
+.equipo {
+    background-color: rgb(204, 250, 79);
+    color: rgb(0, 0, 0);
+    display: flex;
+}
+.equipo img{
+    width: 30rem;
+
+}
+.persona {
+    background-color: rgb(57, 219, 165);
+    margin: 1rem;
+    padding: 2rem;
+    width: 50%;
+    border-radius: 2rem;
+}
+.persona h3 {
+    text-transform: uppercase;
+}
+
+.persona li a {
+    text-decoration: none;
+    color: black;
+}
